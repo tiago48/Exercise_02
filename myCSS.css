@@ -86,8 +86,8 @@ a:active {
     width: 210px;
     height: 600px;
     margin: 0;
-    border-right: 1px solid #C6EC8C;
-    font-weight: normal;
+    border-right: 1px solid #006400;
+    font-weight: bold;
 }
 
 #centerDoc {
