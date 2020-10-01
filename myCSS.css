@@ -13,7 +13,7 @@ p {
 }
 
 li {
-    list-style-type: none;
+    list-style-type: disc;
     line-height: 150%;
     /*list-style-image: url(../images/arrowSmall.gif);*/
 }
@@ -30,7 +30,7 @@ h2 {
     font-size: 16px;
     font-weight: bold;
     color: #191970;
-    border-bottom: 1px solid #C6EC8C;
+    border-bottom: 3px solid #006400;
 }
 
 /**************** Pseudo classes ****************/
