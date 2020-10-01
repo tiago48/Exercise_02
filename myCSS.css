@@ -8,26 +8,28 @@ body {
 
 p {
     width: 80%;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #191970;
 }
 
 li {
     list-style-type: none;
     line-height: 150%;
-    list-style-image: url(../images/arrowSmall.gif);
+    /*list-style-image: url(../images/arrowSmall.gif);*/
 }
 
 h1 {
     font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 18px;
     font-weight: bold;
-    color: #000000;
+    color: #191970;
 }
 
 h2 {
     font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 16px;
     font-weight: bold;
-    color: #000000;
+    color: #191970;
     border-bottom: 1px solid #C6EC8C;
 }
 
@@ -86,15 +88,15 @@ a:active {
     width: 210px;
     height: 600px;
     margin: 0;
-    border-right: 1px solid #006400;
-    font-weight: bold;
+    border-right: 5px solid #006400;
+    font-weight: normal;
 }
 
 #centerDoc {
     position: absolute;
     z-index: 15;
-    padding: 0 0 20px 20px;
+    padding: 0 0 20px 10px;
     /*top right bottom left*/
-    margin-top: 50px;
+    margin-top: 10px;
     margin-left: 235px;
 }
